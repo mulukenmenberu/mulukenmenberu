@@ -3,7 +3,6 @@
 👋 I'm currently Learning Udacity Full-stack Nano Degree Program 
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muluken-menberu-7401a8167) 
 
